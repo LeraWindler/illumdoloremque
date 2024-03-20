@@ -1,0 +1,36 @@
+{
+  "name": "illumdoloremque",
+  "version": "1.0.0",
+  "description": "Maxwell protocol implementation for js/ts.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "author": "LouisaDeckow",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeraWindler/illumdoloremque.git"
+  },
+  "files": [
+    "lib",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "protobufjs": "^6.10.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.12",
+    "@babel/preset-typescript": "^7.13.0",
+    "@typescript-eslint/eslint-plugin": "^4.21.0",
+    "@typescript-eslint/parser": "^4.21.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.23.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-jest": "^24.3.4",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.3"
+  },
+  "bugs": {
+    "url": "https://github.com/LeraWindler/illumdoloremque.git/issues"
+  }
+}
